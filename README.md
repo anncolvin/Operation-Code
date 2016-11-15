@@ -1,4 +1,4 @@
-One day hackathon contest for Operation Code (non-profit). 
+One day hackathon contest for Operation Code (non-profit that assists veterans and their families learn how to code). 
 
 Delieverable: Present recommendations for Operation Code's website.
 
